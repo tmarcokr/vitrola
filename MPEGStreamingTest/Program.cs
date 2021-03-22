@@ -15,7 +15,7 @@ namespace MPEGStreamingTest
 
         static void Main(string[] args)
         {
-            var allFilesFound = Directory.GetFiles(@"C:\Sons of Anarchy Season 4 Soundtrack", "*.mp3", SearchOption.AllDirectories);
+            var allFilesFound = Directory.GetFiles(@"[PUT_YOUR_MP3_FOLDER]", "*.mp3", SearchOption.AllDirectories);
             InitializeRadio(allFilesFound);
             Console.WriteLine("Radio Station Initialized");
             Console.WriteLine("Commands: P -> To Play current music");
