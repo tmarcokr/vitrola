@@ -1,0 +1,14 @@
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.csprojAssemblyReference.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.csproj.CoreCompileInputs.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.AssemblyInfoInputs.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.AssemblyInfo.cs
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\PlayList.deps.json
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\PlayList.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\PlayList.pdb
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\MPEGCast.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\MPEGInfo.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\MPEGCast.pdb
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\bin\Release\netcoreapp2.2\MPEGInfo.pdb
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.csproj.CopyComplete
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\PlayList\obj\Release\netcoreapp2.2\PlayList.pdb

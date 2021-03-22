@@ -1,0 +1,17 @@
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\bin\Release\netcoreapp2.2\MPEGInfo.deps.json
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\bin\Release\netcoreapp2.2\MPEGInfo.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\bin\Release\netcoreapp2.2\MPEGInfo.pdb
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.csprojAssemblyReference.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.csproj.CoreCompileInputs.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.AssemblyInfoInputs.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.AssemblyInfo.cs
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\MP3_Header_Info\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.pdb
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\bin\Release\netcoreapp2.2\MPEGInfo.deps.json
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\bin\Release\netcoreapp2.2\MPEGInfo.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\bin\Release\netcoreapp2.2\MPEGInfo.pdb
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.csproj.CoreCompileInputs.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.AssemblyInfoInputs.cache
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.AssemblyInfo.cs
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.dll
+C:\Users\Wintermute\Desktop\Projetos\Radio\MPEGInfo\obj\Release\netcoreapp2.2\MPEGInfo.pdb
