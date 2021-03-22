@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\MPEGStreamingTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj",
+        "projectName": "MPEGCast",
+        "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj",
+        "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wintermute\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj": {
+                "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj",
+        "projectName": "MPEGInfo",
+        "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj",
+        "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wintermute\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\MPEGStreamingTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\MPEGStreamingTest.csproj",
+        "projectName": "MPEGStreamingTest",
+        "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\MPEGStreamingTest.csproj",
+        "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wintermute\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj": {
+                "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj"
+              },
+              "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj": {
+                "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj"
+              },
+              "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj": {
+                "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj",
+        "projectName": "PlayList",
+        "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj",
+        "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wintermute\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj": {
+                "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj"
+              },
+              "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj": {
+                "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

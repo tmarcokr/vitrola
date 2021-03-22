@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "PlayList/1.0.0": {
+        "dependencies": {
+          "MPEGCast": "1.0.0",
+          "MPEGInfo": "1.0.0"
+        },
+        "runtime": {
+          "PlayList.dll": {}
+        }
+      },
+      "MPEGCast/1.0.0": {
+        "dependencies": {
+          "MPEGInfo": "1.0.0"
+        },
+        "runtime": {
+          "MPEGCast.dll": {}
+        }
+      },
+      "MPEGInfo/1.0.0": {
+        "runtime": {
+          "MPEGInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MPEGCast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MPEGInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
