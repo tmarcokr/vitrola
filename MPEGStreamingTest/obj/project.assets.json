@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGStreamingTest\\MPEGStreamingTest.csproj",
+      "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\MPEGStreamingTest.csproj",
       "projectName": "MPEGStreamingTest",
-      "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGStreamingTest\\MPEGStreamingTest.csproj",
+      "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\MPEGStreamingTest.csproj",
       "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGStreamingTest\\obj\\",
+      "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGStreamingTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -770,14 +770,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGCast\\MPEGCast.csproj": {
-              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGCast\\MPEGCast.csproj"
+            "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj": {
+              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj"
             },
-            "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\MPEGInfo.csproj": {
-              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\MPEGInfo.csproj"
+            "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj": {
+              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj"
             },
-            "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\PlayList\\PlayList.csproj": {
-              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\PlayList\\PlayList.csproj"
+            "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj": {
+              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\PlayList\\PlayList.csproj"
             }
           }
         }

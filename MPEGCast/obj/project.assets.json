@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGCast\\MPEGCast.csproj",
+      "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj",
       "projectName": "MPEGCast",
-      "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGCast\\MPEGCast.csproj",
+      "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\MPEGCast.csproj",
       "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGCast\\obj\\",
+      "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGCast\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\MPEGInfo.csproj": {
-              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\MPEGInfo.csproj"
+            "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj": {
+              "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj"
             }
           }
         }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\MPEGInfo.csproj",
+      "projectUniqueName": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj",
       "projectName": "MPEGInfo",
-      "projectPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\MPEGInfo.csproj",
+      "projectPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\MPEGInfo.csproj",
       "packagesPath": "C:\\Users\\Wintermute\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wintermute\\Desktop\\Projetos\\Radio\\MPEGInfo\\obj\\",
+      "outputPath": "C:\\Users\\Wintermute\\Desktop\\Repo\\vitrola\\MPEGInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
